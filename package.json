@@ -1,0 +1,19 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "first",
+  "main": "index.js",
+  "scripts": {
+    "test": "\u0016\u0016echo error"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Eric Laroche",
+  "license": "ISC",
+  "dependencies": {
+    "js-beautify": "^1.7.5",
+    "prettyjson": "^1.2.1",
+    "request": "^2.85.0"
+  }
+}
